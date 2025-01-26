@@ -3,6 +3,7 @@
 
 ## A Quick Summary
 - 🔭 I’m currently working on Bayesian inference methods to analyse very high energy gamma ray event data to search for dark matter
+- 📚 I am currently a member of the dark matter working group for the Cherenkov Telescope Array Observatory Consortium
 - 💬 Feel free to ask me about bayesian inference and observational dark matter searches
 - 📫 How to reach me: Liam.Pinchbeck@monash.edu
 - 😄 Pronouns: he/him
