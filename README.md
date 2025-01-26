@@ -2,8 +2,7 @@
 
 
 ## A Quick Summary
-- 🔭 I’m currently working on a Bayesian Inference Framework to fit for dark matter related variables using data from the [CTA](https://www.cta-observatory.org)
-- 🤔 I’ve previously worked on creating quantized neural networks for data filtering for COMET phase I (through Monash University)
+- 🔭 I’m currently working on Bayesian inference methods to analyse very high energy gamma ray event data to search for dark matter
 - 💬 Feel free to ask me about bayesian inference and observational dark matter searches
 - 📫 How to reach me: Liam.Pinchbeck@monash.edu
 - 😄 Pronouns: he/him
